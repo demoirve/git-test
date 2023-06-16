@@ -8,4 +8,5 @@ public class Student {
     private Integer age;
     private Boolean sex;
     private String birth;
+    private String git_fourth;
 }
