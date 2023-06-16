@@ -11,4 +11,5 @@ public class Student {
     private String git_fourth;
     private String master_commit;
     private String hot_fix_commit;
+    private String push_test;
 }
