@@ -9,4 +9,5 @@ public class Student {
     private Boolean sex;
     private String birth;
     private String git_fourth;
+    private String master_commit;
 }
