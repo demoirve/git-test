@@ -10,4 +10,5 @@ public class Student {
     private String birth;
     private String git_fourth;
     private String master_commit;
+    private String hot_fix_commit;
 }
